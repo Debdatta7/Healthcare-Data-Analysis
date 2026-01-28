@@ -69,40 +69,26 @@ Billing ranges from $1,003 for routine procedures to $52,764 for complex ICU and
 
 * Overall average length of stay
 
-* Length of stay by:
+* Length of stay by: Admission type, Medical condition, Age group
 
-** Admission type
-
-Medical condition
-
-Age group
-
-Comparison of elderly vs younger patients
+* Comparison of elderly vs younger patients
 
 ### Insight:
 Patients aged 65+ stay ~40% longer, and emergency admissions result in significantly extended hospital stays—directly impacting cost and resource utilization.
 
 ## 4️⃣ 🧪 Test Results & Patient Outcomes
 
-Distribution of test results (Normal / Abnormal / Inconclusive)
+* Distribution of test results (Normal / Abnormal / Inconclusive)
 
-Conditions with the highest abnormal test results
+* Conditions with the highest abnormal test results
 
-Test result trends by age group
-
-Relationship between test results and length of stay
+* Relationship between test results and length of stay
 
 ## 5️⃣ 📊 Visualization & Reporting
 
 All insights visualized using Matplotlib
 
-Clean, business-ready charts for:
-
-Admission trends
-
-Billing comparisons
-
-Length of stay distributions
+Clean, business-ready charts for: Admission trends, Billing comparisons, Length of stay distributions
 
 Final insights summarized in a PowerPoint presentation
 
@@ -114,6 +100,6 @@ Pandas – Data cleaning & analysis
 
 Matplotlib – Data visualization
 
-Jupyter Notebook
+VS code
 
 Microsoft PowerPoint – Stakeholder-friendly reporting
